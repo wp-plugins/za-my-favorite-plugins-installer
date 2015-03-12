@@ -41,8 +41,6 @@ Your feedback and suggestions are important to me for making it better and bring
 1. Upload the `za-favorite-plugins-installer` plugin to your `/wp-content/plugins/` directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 1. One-click installation of plugins can be controlled on the `Favorite Plugins` screen
-1. Enter your plugin's URL or SLUG (one each line) then let it go (you can also save your list)
-1. Done!
 
 == Changelog ==
 
