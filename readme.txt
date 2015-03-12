@@ -1,5 +1,4 @@
-﻿=== ZAMFPI ===
-Plugin Name: ZA My Favorite Plugins Installer
+﻿=== ZA My Favorite Plugins Installer ===
 Version: 1.0
 Author: Zeeshan Arshad
 Author URI: http://zeeshanarshad.com
